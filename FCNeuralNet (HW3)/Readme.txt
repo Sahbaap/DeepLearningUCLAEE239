@@ -1,0 +1,1 @@
+In this homework, we first implement a two-layer neural network (two_layer_nn.ipynob). After, we modularize the code so that the net can have any arbitrary numbers of hidden layers and neurons, any non-linear activation function, as well as either SVM or Softmax for the classification.
